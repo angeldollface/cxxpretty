@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: "Run tests."
-        command: make build && make run
+        run: make build && make run
