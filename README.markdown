@@ -2,7 +2,7 @@
 
 ![CXX PRETTY CI](https://github.com/angeldollface/cxxpretty/actions/workflows/main.yml/badge.svg)
 
-***A C++ library to work with colored strings using ANSI escape characters.***
+***A C++ library to work with colored strings using ANSI escape characters. :heavy_multiplication_x: :nail_care:***
 
 ## ABOUT :books:
 
